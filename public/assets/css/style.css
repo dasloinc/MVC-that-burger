@@ -5,7 +5,7 @@
 
 h1{
     color:#bdb439;
-    font-family: Impact,sans-serif;
+    font-family: 'Russo One', sans-serif;
 }
 
 h3{
@@ -48,7 +48,9 @@ h5{
     color: whitesmoke;
     font-size: 15px;
 }
-
-.img-fluid{
- 
+img{
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 100px;
 }
