@@ -23,4 +23,3 @@ var burgers = {
 
 // Export the database functions for the controller (Controller.js).
 module.exports = burgers;
-© 2020 GitHub, Inc.

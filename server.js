@@ -20,8 +20,8 @@ app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
 // Import routes and give the server access to them.
-var router = require("./controllers/burgersController");
-
+//var router = require("./controllers/burgersController");
+var router = require("./MVC-that-burger/controllers/burgersController")
 app.use(router);
 
 // Start our server so that it can begin listening to client requests.

@@ -1,9 +1,9 @@
-DROP DATABASE IF EXISTS imlwraaoo30b0sv7;
+DROP DATABASE IF EXISTS wm3uuif51fyqx0g4;
 
 -- Create the database burgers_db and specified it for use.
-CREATE DATABASE imlwraaoo30b0sv7;
+CREATE DATABASE wm3uuif51fyqx0g4;
 
-USE imlwraaoo30b0sv7;
+USE wm3uuif51fyqx0g4;
 
 -- Create the table burgers.
 CREATE TABLE burgers (
