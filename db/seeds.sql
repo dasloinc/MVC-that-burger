@@ -1,3 +1,5 @@
+USE wm3uuif51fyqx0g4;;
+
 -- insert burgers here
 INSERT INTO burgers (burger_name) VALUES ('Barbecue burger');
 INSERT INTO burgers (burger_name) VALUES ('California burger');

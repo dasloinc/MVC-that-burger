@@ -1,15 +1,15 @@
 /* add your css here */
 *{
-    background-color:#F29F05;
+    background-color: rgb(53, 52, 52);
 }
 
 h1{
-    color:#591202;
+    color:#bdb439;
     font-family: Impact,sans-serif;
 }
 
 h3{
-    color: #591202;
+    color:#bdb439;
     font-family: 'Russo One', sans-serif;
 }
 
@@ -18,13 +18,14 @@ h5{
 }
 
 #notDevouredBurger{
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Abel', sans-serif;
+    color: blanchedalmond;
 }
 
 #devouredBurger{
-    font-size: 15px;
-    color:#7C8C03;
+    font-size: 20px;
+    color:#b2bb6c;
     font-family: 'Abel', sans-serif;
     font-weight: bold;
 }
@@ -43,7 +44,11 @@ h5{
 }
 
 #newBurger{
-    background-color: maroon;
+    background-color: rgb(165, 57, 57);
     color: whitesmoke;
     font-size: 15px;
+}
+
+.img-fluid{
+ 
 }
